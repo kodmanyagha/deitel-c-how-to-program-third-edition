@@ -6,3 +6,5 @@ it again at 2022. Now I want to work on it.
 
 Some function and variable names in Turkish because my book is translated
 to Turkish. But I will write comments in English.
+
+<img src="./assets/deitel.jpeg" />
