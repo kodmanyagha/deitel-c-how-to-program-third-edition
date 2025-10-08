@@ -16,10 +16,6 @@ removes the compiled file. Example usage:
 
 ```bash
 ./rr 4-control/405-for-loop.c
-```
-
-Result:
-
-```bash
+# Result:
 Toplam 2550
 ```
