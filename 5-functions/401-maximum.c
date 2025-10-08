@@ -7,7 +7,7 @@ int maksimum(int, int, int); // function prototype
 int main() {
   int a, b, c;
 
-  printf("3 sayı giriniz: ");
+  printf("3 sayı giriniz, her sayıdan sonra entera basınız:\n");
   scanf("%d%d%d", &a, &b, &c);
   printf("Maximum: %d dir.\n", maksimum(a, b, c));
 
